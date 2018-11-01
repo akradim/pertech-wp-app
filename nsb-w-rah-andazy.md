@@ -24,5 +24,7 @@ description: مراحل نصب برای برنامه پرشین تک Wordpress P
 
 ![Open existing android studio project](.gitbook/assets/08.JPG)
 
+{% page-ref page="rest-api-sakht-wrdprs.md" %}
+
 
 
